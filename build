@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+#cc putpenis.c -o putpenis
+docker build -t penis:longest .

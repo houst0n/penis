@@ -1,0 +1,5 @@
+#!/bin/bash
+
+while (true); do
+	/putpenis $1 $2
+done
