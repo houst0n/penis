@@ -9,8 +9,8 @@ void putpenis(char *str)
 }
 int main(int argc, char **argv)
 {
-   printf("watch %s's ass get owned by %s!!\n",(argc>1)?argv[1]:"route",
-          (argc>2)?argv[2]:"cripto");
+   printf("watch %s's ass get owned by %s!!\n",(argc>1)?argv[1]:"matt",
+          (argc>2)?argv[2]:"houst0n");
 
   while(1)
   {
